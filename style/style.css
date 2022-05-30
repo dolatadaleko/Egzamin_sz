@@ -1,8 +1,13 @@
 body {
   background-color: rgb(191, 207, 207) !important;
 }
+body .container {
+  background-color: rgba(14, 34, 115, 0.277);
+  border-radius: 3rem;
+}
 body h1 {
   font-family: "Times New Roman", Times, serif;
   text-align: center;
   padding: 5rem;
+  font-size: 4rem;
 }/*# sourceMappingURL=style.css.map */

@@ -1,9 +1,15 @@
 body{
     background-color: rgb(191, 207, 207) !important;
+    .container{
+        background-color: rgba(14, 34, 115, 0.277);
+        border-radius: 3rem;
+    }
 
     h1{
         font-family:'Times New Roman', Times, serif;
         text-align: center;
         padding: 5rem;
+        font-size: 4rem;
     }
+    
 }
